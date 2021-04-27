@@ -1,6 +1,6 @@
 ---
 title: John Doe
-image: https://ibb.co/YZwkY3X
+image: "/images/danielvelasquez.png"
 email: ''
 social:
 - icon: ti-facebook
